@@ -8,3 +8,4 @@ ro.vendor.audio.sdk.fluencetype=fluence
 # Display
 debug.hwui.use_buffer_age=false
 ro.sf.lcd_density=320
+debug.hwui.renderer=opengl
