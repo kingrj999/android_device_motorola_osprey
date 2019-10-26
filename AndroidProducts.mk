@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosip.mk
+    $(LOCAL_DIR)/aosip_osprey.mk
 
 COMMON_LUNCH_CHOICES := \
     aosip_osprey-user \
